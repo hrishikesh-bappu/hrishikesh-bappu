@@ -23,13 +23,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sscswapnil&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hrishikesh-bappu&show_icons=true&hide_border=true)
 
 
 <!---
 <h3 align="center">A passionate python developer and data analyst from India</h3>
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh-bappu&label=Profile%20views&color=0e75b6&style=flat" alt="sscswapnil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh-bappu&label=Profile%20views&color=0e75b6&style=flat" alt="Hrishikesh-Bappu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikesh-bappu" alt="Hrishikesh Deshmukh" /></a> </p>
 
