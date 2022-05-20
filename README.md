@@ -11,9 +11,10 @@
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 
-- 🔭 I’m currently working on my **own (Custom) Auto-ML Neural Networks**.
-- 🌱 I’m currently learning **Deep Learning**.
-- 💬 Ask me about anything related to **Python, C,C++, SQL, Machine learning concepts and projects**.
+- 🔭 I’m currently working on  **Python Automations and Machine Learning**.
+- 🌱 I’m currently learning **Data Structures and Deep Learning**.
+- 🤞 I Want to Learn **Angular,Mongo DB,Express.JS,Node.JS,Devops,AWS,Azure,Tableau,Power BI,DJango,etc**
+- 💬 Ask me about anything related to **Python,C,C++**.
 - 📫 How to reach me: 
 
 - > Email: hrishikeshdeshmukh06@gmail.com
