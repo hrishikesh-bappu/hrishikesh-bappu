@@ -2,13 +2,14 @@
 ### HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 -->
 <div align="center">
+  # <div align="center"> <h3>आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे!</h3> 🚀</div> 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 31%" />
 </div>  
   
 
 
 ## <div align="center">I'm Hrishikesh, a passionate Python developer and data analyst from India 👨‍💻 </div>  
-# <div align="center"> <h3>आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे!</h3> 🚀</div>  
+ 
 
 
 - 🔭 I’m currently working on  **Python Automations and Machine Learning**.
