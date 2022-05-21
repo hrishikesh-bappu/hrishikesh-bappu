@@ -8,7 +8,7 @@
 
 
 ## <div align="center">I'm Hrishikesh, a passionate Python developer and data analyst from India 👨‍💻 </div>  
-# <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
+# <div align="center"> आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे! 🚀</div>  
 
 
 - 🔭 I’m currently working on  **Python Automations and Machine Learning**.
