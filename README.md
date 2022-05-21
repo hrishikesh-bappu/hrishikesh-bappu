@@ -49,7 +49,7 @@
  <a href="https://www.hackerrank.com/hrishikesh_bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
  <a href="https://leetcode.com/hrishikesh_bappu/" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/Leetcode.png" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@hrishikeshdeshmukhofficial" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/hackerearth.png" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/hrishikesh06" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/codechef.png" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/hrishikesh06" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/codechef.jpg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
   <a href="https://www.topcoder.com/members/hrishikeshbappu" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/topcoder.png" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/hrishikeshdeshmukh06" target="blank"><img align="center" src="https://github.com/hrishikesh-bappu/hrishikesh-bappu/blob/main/kaggle.png" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
   
