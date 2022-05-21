@@ -8,7 +8,7 @@
   
 
 <div align="center"> <h1>आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे!</h1> 🚀</div> 
-## <div align="center">I'm Hrishikesh, a passionate Python developer and data analyst from India 👨‍💻 </div>  
+<div align="center">I'm Hrishikesh, a passionate Python developer and data analyst from India 👨‍💻 </div>  
  
 
 
