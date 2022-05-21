@@ -2,7 +2,7 @@
 ### HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 -->
 <div align="center">
-  # <div align="center"> <h3>आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे!</h3> 🚀</div> 
+<div align="center"> <h1>आयुष्य खुप सुंदर आहे फक्त Programming जमले पाहीजे!</h1> 🚀</div> 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 31%" />
 </div>  
   
