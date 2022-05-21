@@ -38,9 +38,12 @@
 <p align="left">
 <a href="https://twitter.com/hrishikeshbappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hrishikesh-deshmukh06011999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12283890/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12570559/hrishikesh-bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
 <a href="https://instagram.com/hrishikesh_bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
 <a href="https://medium.com/@hrishikeshbappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iampavangandhi/">
+  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 </p>
 
 
