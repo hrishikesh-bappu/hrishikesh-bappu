@@ -41,8 +41,8 @@
 <a href="https://stackoverflow.com/users/12570559/hrishikesh-bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
 <a href="https://instagram.com/hrishikesh_bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hrishikesh Deshmukh" height="30" width="40" /></a>
 <a href="https://medium.com/@hrishikeshbappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
-<a href="https://medium.com/@hrishikeshbappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iampavangandhi" target="blank"><img align="left" alt="Hrishikesh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" /></a>
+<a href="https://www.hackerrank.com/hrishikesh_bappu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hrishikesh_Bappu" height="30" width="40" /></a>
+
 </p>
 
 
